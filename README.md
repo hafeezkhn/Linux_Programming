@@ -1,4 +1,9 @@
 
+ Repositories:
+* [embedded_linux](https://github.com/hafeezkhn/programming_C/tree/main/embedded_linux)
+* [linux_internals](https://github.com/hafeezkhn/programming_C/tree/main/linux_internals)
+
+
 Exception in Armv8-A
 - why:exception can serve as the foundation of various crash issues
 - types of exception: 
